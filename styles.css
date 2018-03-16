@@ -3,6 +3,14 @@ nav {
   margin-bottom: 60px;
 }
 
+.logo-and-delicious {
+  position: absolute;
+  display: block;
+  padding: 10px;
+}
+
+
+
 h1 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 44px;
@@ -10,8 +18,11 @@ h1 {
   position: absolute;
   padding-bottom: 50px;
   padding-left: 25px;
+  padding-top: 50px;
 }
+
 
 .main-img {
   margin-top: 150px;
 }
+
